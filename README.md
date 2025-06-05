@@ -19,7 +19,7 @@ This File Integrity Monitor (FIM) scans a specified directory, calculates crypto
 ## Installation
 
 1. **Clone the repository or download the script:**
-git clone https://github.com/yourusername/file_integrity_monitor.git
+git clone https://github.com/Bailey7220/file_integrity_monitor.git
 cd file_integrity_monitor
 
 
