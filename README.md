@@ -1,9 +1,5 @@
 # File Integrity Monitor (FIM)
 
-A Python tool for monitoring file changes in a directory using SHA-256 hashing. This project helps detect unauthorized modifications, additions, or deletions of files.
-
----
-
 ## Description
 
 This File Integrity Monitor (FIM) scans a specified directory, calculates cryptographic hashes for each file, and stores them. On subsequent runs, it compares the current hashes to the stored ones and reports any changes, additions, or deletions. This helps identify tampering, malware, or accidental changes to critical files.
